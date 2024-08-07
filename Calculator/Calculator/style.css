@@ -1,0 +1,41 @@
+.container{
+text-align: center;
+margin-top:0px
+}
+table{
+margin: auto;
+}
+input{
+border-radius: 6px;
+border: 5px solid #244624;
+font-size:34px;
+height: 75px;
+width: 450px;
+text-align: right;
+}
+button{
+border-radius:0px;
+font-size: 25px;
+background: #978fa0;
+width: 96px;
+height: 69px;
+margin: 6px;
+}
+.calculator{ 
+border: 4px solid #13695d;
+background-color:  #222;
+padding: 20px;
+border-radius: 23px;
+display: inline-block;
+}
+h1{
+font-size: 28px;
+font-family: 'Serif', Garmond;
+}
+
+
+
+
+
+
+
